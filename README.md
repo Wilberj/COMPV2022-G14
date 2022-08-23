@@ -1,2 +1,13 @@
-# COMPV2022-G14
-Integrantes: Kevin Antonio Vado Hernandez Cristopher Gabriel parrales Martínez Nombre del proyecto: Sistema automatizado para los procesos de facturación de la Tienda de Repuestos CODEVO ubicada  en el municipio de Diriamba Departamento de Carazo  Descripción del negocio: La tienda de repuestos codevo es un pequeño negocio el cual tiene como función principal la venta de repuestos para microbuses. En la actualidad, la tienda codevo realiza las gestiones de información como pedidos, ventas, compras, e inventario a la antigua usando papel y lápiz. Ahora bien, todos estos datos son clave para el correcto funcionamiento del negocio, pero la forma en la que se está registrando dicha información puede traer inconvenientes como aumento en los costos en los repuestos, inseguridad y entorpecimiento a la hora de generar una factura. Es por eso que la implementación del software se encargara de los inconvenientes anteriormente mencionados.
+INTEGRANTE: Deybi José Vado Acevedo
+#Carnet: 18903826
+
+Definición
+El proyecto en desarrollo es un sistema web transaccional de facturación para la
+tienda de ropa nueva KD Acevedo ubicada en santa teresa Carazo, la tienda se
+dedica a vender ropa para caballeros, damas y niños.
+
+Cada articulo se diferencia por un estilo, una marca, un color y se vende la ropa de
+las tallas XS, S, M, L, XL.
+
+Se llevan a cabo las compras a sus respectivos proveedores, se realizan las
+ventas a sus respectivos clientes.
